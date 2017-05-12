@@ -1,0 +1,41 @@
+#content{width: 100%;float: left;}
+#content .food{width: 1170px;/*height: 283px;*/margin-left: 27px;}
+#content .food_title{width: 100%;height: 41px;font: bold 18px/41px "微软雅黑";color: #E92323;}
+#content .food_nav_left{width: 208px;height: 240px;border: 1px solid #D3D3D3;float: left;}
+#content .food_nav_right{width: 928px;/*height: 159px;*/border: 1px solid #D3D3D3;float: right;}
+
+.food_nav_left dl{width: 188px;margin: 5px auto 0;}
+.food_nav_left dt{font: bold 14px/30px "微软雅黑";height: 30px;width: 188px;}
+.food_nav_left dd{font: 12px/28px "微软雅黑";height: 90px;width: 188px;border-bottom: 1px dotted #D2D2D2;word-spacing: 5px;}
+.food_nav_left #hot_shop a{color: #0088CC;}
+.food_nav_left #hot_shop a:hover{color: #1100FF;text-decoration: underline;}
+.food_nav_left #word{border-bottom: none;letter-spacing: 4px;line-height: 20px;font-size: 13px;}
+
+.food_nav_right ul{margin: 5px 0 0 15px;}
+.food_nav_right ul li{height: 41px;width: 910px;border-bottom: 1px dotted #D2D2D2;list-style: none;font-size: 12px;line-height: 35px;}
+.food_nav_right ul .li_last{border-bottom: none;}
+.food_nav_right ul li span{color: #FF6060;font-weight: bold;font-size: 13px;}
+.food_nav_right ul li a{padding: 7px 6px;color: #333;border-radius: 5px;}
+.food_nav_right ul li label{color: #999;}
+.food_nav_right ul li .li1{color: #fff;background: #FF6060;}
+
+.food_nav_right ol{width: 100%;height: 28px;border-top: 1px solid #D3D3D3;list-style: none;background: url(../img/data_beijin.png);}
+.food_nav_right ol li{float: left;}
+.food_nav_right ol li a{width: 100px;height: 28px;display: inline-block;font: 13px/28px "微软雅黑";text-align: center;border-right: 1px solid #D3D3D3;color: #7F6F6F;}
+.food_nav_right ol li .li_a1{background: #d1d1d1;}
+
+/*商品盒子*/
+.food_con{width: 1200px;float: left;margin-left: 27px;padding-bottom: 100px;}
+/*商品块*/
+.con21{width: 208px;height: 283px;border: 1px solid #DADADA;border-radius: 5px;background: #F5F5F5;float: left;margin: 20px 30px 0 0;position: relative;}
+.mb{width: 208px;height: 178px;opacity: 0.5;position: absolute;background: #000;top: 28px;left: 0;display: none;}
+.price1{color: #fff;font: bold 20px "微软雅黑";position: absolute;top: 10%;text-align: center;width: 100%;opacity: 0;}
+.title4{width: 190px;margin-left: 10px;color: #686868;font: 12px/28px "微软雅黑";}
+.title4 img{float: left;margin: 9px 9px 0 0;}
+.t1{float: left;}
+.t2{float: right;}
+.img3{width: 208px;height: 178px;}
+.p1{width: 190px;height: 24px;margin: 5px 0 0 10px;color: #686868;font: bold 14px/24px "微软雅黑";border-bottom: 1px solid #D7D7D7;position: relative;}
+.p2{width: 190px;font: 13px "微软雅黑";margin: 5px 0 0 10px;}
+.price{color: #E92424;font-size: 25px;font-weight: bold;}
+.p2 button{background: #EB7171;border: none;border-radius: 5px;outline: none;padding: 0 5px;height: 26px;color: #fff;float: right;margin: 5px 0px 0 0;}
